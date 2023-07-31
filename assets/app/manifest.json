@@ -1,0 +1,23 @@
+{
+  "name": "Hello World",
+  "authors": [
+    {
+      "name": "Marcelo De Bortoli",
+      "email": "mdebortoli@zendesk.com"
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Start here",
+      "url": "README.md"
+    },
+    {
+      "name": "Hello World",
+      "url": "iframe.html"
+    }
+  ],
+  "pinned": false,
+  "priority": 0,
+  "allowlist": [],
+  "denylist": []
+}
